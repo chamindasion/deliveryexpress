@@ -1,0 +1,5 @@
+C:\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Release\IG.CLP.Web.ExceptionHandling.API.dll
+C:\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Release\IG.CLP.Web.ExceptionHandling.API.pdb
+C:\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\obj\Release\IG.CLP.Web.ExceptionHandling.API.csprojResolveAssemblyReference.cache
+C:\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\obj\Release\IG.CLP.Web.ExceptionHandling.API.dll
+C:\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\obj\Release\IG.CLP.Web.ExceptionHandling.API.pdb

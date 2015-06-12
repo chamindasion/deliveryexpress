@@ -1,0 +1,24 @@
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\IG.CLP.Web.ExceptionHandling.API.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\IG.CLP.Web.ExceptionHandling.API.pdb
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\Microsoft.Owin.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\Newtonsoft.Json.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\Owin.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\System.Net.Http.Formatting.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.Owin.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\Microsoft.Owin.xml
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\Newtonsoft.Json.xml
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\System.Net.Http.Formatting.xml
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.xml
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.Owin.xml
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\obj\Debug\IG.CLP.Web.ExceptionHandling.API.dll
+\\dev-pc4\Users\Chamindah\Documents\Visual Studio 2012\Projects\IG.CLP.Web.AuthenticationServer.API\IG.CLP.Web.ExceptionHandling.API\obj\Debug\IG.CLP.Web.ExceptionHandling.API.pdb
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\bin\Debug\AP.PD.Web.ExceptionHandling.API.dll
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\bin\Debug\AP.PD.Web.ExceptionHandling.API.pdb
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Net.Http.Formatting.dll
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.dll
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Net.Http.Formatting.xml
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.xml
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\obj\Debug\AP.PD.Web.ExceptionHandling.API.dll
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\obj\Debug\AP.PD.Web.ExceptionHandling.API.pdb
+C:\Chamindah\ParcelDelivery\AP.PD.Web.ExceptionHandling.API\obj\Debug\AP.PD.Web.ExceptionHandling.API.csprojResolveAssemblyReference.cache

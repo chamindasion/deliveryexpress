@@ -1,0 +1,9 @@
+C:\Chamindah\AussiPost\AP.PD.Web.Angular.Client\AP.PD.Domain\bin\Debug\AP.PD.Domain.dll
+C:\Chamindah\AussiPost\AP.PD.Web.Angular.Client\AP.PD.Domain\bin\Debug\AP.PD.Domain.pdb
+C:\Chamindah\AussiPost\AP.PD.Web.Angular.Client\AP.PD.Domain\obj\Debug\AP.PD.Domain.dll
+C:\Chamindah\AussiPost\AP.PD.Web.Angular.Client\AP.PD.Domain\obj\Debug\AP.PD.Domain.pdb
+C:\Chamindah\ParcelDelivery\AP.PD.Domain\bin\Debug\AP.PD.Domain.dll
+C:\Chamindah\ParcelDelivery\AP.PD.Domain\bin\Debug\AP.PD.Domain.pdb
+C:\Chamindah\ParcelDelivery\AP.PD.Domain\obj\Debug\AP.PD.Domain.dll
+C:\Chamindah\ParcelDelivery\AP.PD.Domain\obj\Debug\AP.PD.Domain.pdb
+C:\Chamindah\ParcelDelivery\AP.PD.Domain\obj\Debug\AP.PD.Domain.csprojResolveAssemblyReference.cache
