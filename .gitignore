@@ -1,0 +1,28 @@
+# --------------------
+# Ignore Visual Studio  Project #
+# --------------------
+*.user
+*.suo
+/packages
+
+# --------------------
+# bin #
+# --------------------
+AP.DeliveryManager.Web.Client/bin
+AP.DeliveryManager.Web.Client/obj
+AP.PD.Business.Domain/bin
+AP.PD.Business.Domain/obj
+AP.PD.Business.Interface/bin
+AP.PD.Business.Interface/obj
+AP.PD.Data/bin
+AP.PD.Data/obj
+AP.PD.Domain/bin
+AP.PD.Domain/obj
+AP.PD.Shared/bin
+AP.PD.Shared/obj
+AP.PD.Web.AuthenticationServer.API/bin
+AP.PD.Web.AuthenticationServer.API/obj
+AP.PD.Web.ExceptionHandling.API/bin
+AP.PD.Web.ExceptionHandling.API/obj
+AP.PD.Web.ResourceServer.API/bin
+AP.PD.Web.ResourceServer.API/obj
