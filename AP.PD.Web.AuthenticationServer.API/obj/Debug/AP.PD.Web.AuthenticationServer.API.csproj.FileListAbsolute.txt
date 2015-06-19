@@ -124,10 +124,6 @@ C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\System.We
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\System.Web.Http.WebHost.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\Unity.WebApi.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\AP.PD.Data.dll
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\AP.PD.Business.Domain.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\AP.PD.Business.Interface.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\AP.PD.Domain.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\AP.PD.Shared.pdb
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\EntityFramework.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\EntityFramework.SqlServer.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\Microsoft.Owin.xml
@@ -144,7 +140,6 @@ C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\System.We
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\System.Web.Http.Cors.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\System.Web.Http.Owin.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\System.Web.Http.WebHost.xml
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\bin\AP.PD.Data.pdb
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\obj\Debug\AP.PD.Web.AuthenticationServer.API.csprojResolveAssemblyReference.cache
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\obj\Debug\AP.PD.Web.AuthenticationServer.API.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.AuthenticationServer.API\obj\Debug\AP.PD.Web.AuthenticationServer.API.pdb

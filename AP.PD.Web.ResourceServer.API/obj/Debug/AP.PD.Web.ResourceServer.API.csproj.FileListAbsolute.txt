@@ -115,11 +115,6 @@ C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\System.Web.Http
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\System.Web.Http.WebHost.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\Unity.WebApi.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Data.dll
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Web.ExceptionHandling.API.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Business.Domain.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Business.Interface.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Domain.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Shared.pdb
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\EntityFramework.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\EntityFramework.SqlServer.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\Microsoft.Owin.xml
@@ -137,7 +132,6 @@ C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\System.Web.Http
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\System.Web.Http.Cors.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\System.Web.Http.Owin.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\System.Web.Http.WebHost.xml
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\bin\AP.PD.Data.pdb
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\obj\Debug\AP.PD.Web.ResourceServer.API.csprojResolveAssemblyReference.cache
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\obj\Debug\AP.PD.Web.ResourceServer.API.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ResourceServer.API\obj\Debug\AP.PD.Web.ResourceServer.API.pdb

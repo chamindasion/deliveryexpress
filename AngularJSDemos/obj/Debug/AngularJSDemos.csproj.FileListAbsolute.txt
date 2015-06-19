@@ -1,4 +1,0 @@
-C:\Chamindah\AussiPost\AngularJSDemos\bin\AngularJSDemos.dll
-C:\Chamindah\AussiPost\AngularJSDemos\bin\AngularJSDemos.pdb
-C:\Chamindah\AussiPost\AngularJSDemos\obj\Debug\AngularJSDemos.dll
-C:\Chamindah\AussiPost\AngularJSDemos\obj\Debug\AngularJSDemos.pdb

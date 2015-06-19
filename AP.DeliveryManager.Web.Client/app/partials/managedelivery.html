@@ -1,4 +1,14 @@
-﻿<form role="form">
+﻿<head>
+    <style type="text/css">
+        #exampleInput {
+            width: 141px;
+        }
+        .form-control {
+            width: 65px;
+        }
+    </style>
+</head>
+<form role="form">
     <div class="row">
         <div class="col-md-2">
             &nbsp;
@@ -6,7 +16,7 @@
         </div>
         <div class="col-md-4">
             <div class="indent">
-                <h4>Delivery for date: </h4>
+                <h4>Date: </h4>
                    <input type="date" id="exampleInput" name="input" data-ng-model="delivery.datedelivered.value"
                         placeholder="yyyy-MM-dd" min="2015-01-01" max="2099-12-31" required />
                 <div role="alert">
@@ -20,7 +30,7 @@
                         <thead>
                             <tr>
                                 <th>Category</th>
-                                <th>Delivered Quantity</th>
+                                <th>Qty</th>
                             </tr>
                         </thead>
                         <tbody>

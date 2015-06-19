@@ -40,6 +40,5 @@ C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\bin\Debug\Newton
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Net.Http.Formatting.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.xml
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\bin\Debug\System.Web.Http.Owin.xml
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\obj\Debug\AP.PD.Web.ExceptionHandling.API.csprojResolveAssemblyReference.cache
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\obj\Debug\AP.PD.Web.ExceptionHandling.API.dll
 C:\Chamindah\ExpressDeliveryNew\AP.PD.Web.ExceptionHandling.API\obj\Debug\AP.PD.Web.ExceptionHandling.API.pdb
