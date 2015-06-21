@@ -12,7 +12,3 @@ C:\Chamindah\ExpressDelivery\AP.PD.Domain\bin\Debug\AP.PD.Domain.pdb
 C:\Chamindah\ExpressDelivery\AP.PD.Domain\obj\Debug\AP.PD.Domain.csprojResolveAssemblyReference.cache
 C:\Chamindah\ExpressDelivery\AP.PD.Domain\obj\Debug\AP.PD.Domain.dll
 C:\Chamindah\ExpressDelivery\AP.PD.Domain\obj\Debug\AP.PD.Domain.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Domain\bin\Debug\AP.PD.Domain.dll
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Domain\bin\Debug\AP.PD.Domain.pdb
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Domain\obj\Debug\AP.PD.Domain.dll
-C:\Chamindah\ExpressDeliveryNew\AP.PD.Domain\obj\Debug\AP.PD.Domain.pdb

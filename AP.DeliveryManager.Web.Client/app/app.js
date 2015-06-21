@@ -29,10 +29,12 @@ app.config(['$httpProvider', function ($httpProvider) {
 ]);
 
 //AuthApi service url
-var serviceBase = 'http://localhost:57476/';
+var serviceBase = 'http://deliveryexpressauth-api.azurewebsites.net/';
+//var serviceBase = 'http://localhost:57476/';
 
 //ResourceApi service url
-var resourceServiceBase = 'http://localhost:63165/';
+var resourceServiceBase = 'http://deliveryexpressresource-api.azurewebsites.net/';
+//var resourceServiceBase = 'http://localhost:63165/';
 
 app.constant('ngAuthSettings', {
     apiServiceBaseUri: serviceBase,
